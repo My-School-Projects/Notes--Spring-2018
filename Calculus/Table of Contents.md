@@ -43,3 +43,13 @@ __Wed 1/31__
     + Recomended problem
     + Cylindrical coordinates
     + Spherical coordinates
+
+__Wed 2/02__
+  + __p1__
+    + Elipsoid (football)
+    + Hyperbolic Paraboloid (saddle)
+  + __p2__
+    + Converting rectangular to cylindrical coordinates
+  + __p3__
+    + Spherical Conversion formulas
+    + Converting rectangular to spherical coordinates
