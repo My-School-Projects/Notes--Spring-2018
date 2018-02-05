@@ -44,7 +44,7 @@ __Wed 1/31__
     + Cylindrical coordinates
     + Spherical coordinates
 
-__Wed 2/02__
+__Fri 2/02__
   + __p1__
     + Elipsoid (football)
     + Hyperbolic Paraboloid (saddle)
@@ -53,3 +53,16 @@ __Wed 2/02__
   + __p3__
     + Spherical Conversion formulas
     + Converting rectangular to spherical coordinates
+
+__Mon 2/05__
+  + __p1__
+    + Vector Valued Functions
+      + Finding domain
+      + Sketching graphs
+  + __p2__
+    + Graphs of vector valued functions
+    + Limits of vector valued functions
+    + Definition of derivitive of a vector valued funciton
+    + Velocity vector, acceleration vector, jerk vector
+  + __p3__
+    + Find r(t) given v(t)
