@@ -15,7 +15,7 @@ __II. What is the New South__
   + Old south was rural, cotton based economy
   + Rich people owned houses
 
-III. Henry Grady (editor, Atlanta Constitution)
+__III. Henry Grady (editor, Atlanta Constitution)__
   + The New South
   + Promotes businesses moving to the south
   + unprecedented natural resources
