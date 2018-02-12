@@ -89,3 +89,11 @@ __Fri 2/09__
    + __p3__
       + 12.5 Arclength
       + Curvature of r(t)
+
+__Mon 2/12__
+   + __p1__
+      + Find N(0) using linear combinations
+   + __p2__
+      + Find arclength on a range
+   + __p3__
+      + Find the equation of a plane perpendicular to a line and intersecting a point
