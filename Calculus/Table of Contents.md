@@ -10,12 +10,12 @@ __Mon 1/22__
       + Angle between two vectors
       + Projections (explanation)
 
-   __Wed 1/24__
+__Wed 1/24__
    + __p1__
       + cosine of theta (equation)
       + Projection (equation)
 
-   __Fri 1/26__
+__Fri 1/26__
    + __p1__
       + Work with projections and vector angles
    + __p2__
@@ -25,7 +25,7 @@ __Mon 1/22__
    + __p4__
       + Parametric equations (2 and 3 dimensions)
 
-   __Mon 1/29__
+__Mon 1/29__
    + __p1__
       + _Need to know for Quiz 2_
       + Parametric Equations of a Line
@@ -38,13 +38,13 @@ __Mon 1/22__
    + __p4__
       + 11.5 #82
 
-   __Wed 1/31__
+__Wed 1/31__
    + __p1__
       + Recomended problem
       + Cylindrical coordinates
       + Spherical coordinates
 
-   __Fri 2/02__
+__Fri 2/02__
    + __p1__
       + Elipsoid (football)
       + Hyperbolic Paraboloid (saddle)
@@ -54,7 +54,7 @@ __Mon 1/22__
       + Spherical Conversion formulas
       + Converting rectangular to spherical coordinates
 
-   __Mon 2/05__
+__Mon 2/05__
    + __p1__
       + Vector Valued Functions
       + Finding domain
@@ -67,7 +67,7 @@ __Mon 1/22__
    + __p3__
       + Find r(t) given v(t)
 
-   __Wed 2/07__
+__Wed 2/07__
    + __p1__
       + Sketch r(t)
       + Proof
