@@ -10,6 +10,7 @@ Tue 1/30: Read "Our Hearts Fell to the Ground"
 Tue 2/13: Paper due on "Our Hearts Fell to the Ground"
 Wed 2/14: Quiz goes live
 Mon 2/19: Quiz due
+Thu 3/08: Midterm
 
 Math
 ----
