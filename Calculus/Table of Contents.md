@@ -97,3 +97,8 @@ __Mon 2/12__
       + Find arclength on a range
    + __p3__
       + Find the equation of a plane perpendicular to a line and intersecting a point
+
+__Wed 2/21__
+   + __p1__
+      + Equation of an elipse
+      + 13.1 Q51: Graphs of c levels

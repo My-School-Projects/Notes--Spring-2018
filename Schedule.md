@@ -20,6 +20,7 @@ Wed 1/31: Quiz 2 - Need to know notes from Mon 1/29 p1
 Fri 2/02: HW #2 - Extended due date
 Fri 2/09: HW #3 - 11.6, 11.7, 12.1, 12.2
 Wed 2/14: __Exam 1__
+Wed 2/28: HW #4 13.1, 13.2, 13.3
 
 Political Science
 -----------------
