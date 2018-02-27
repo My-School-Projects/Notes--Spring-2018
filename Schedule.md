@@ -8,8 +8,9 @@ History
 
 Tue 1/30: Read "Our Hearts Fell to the Ground"
 Tue 2/13: Paper due on "Our Hearts Fell to the Ground"
-Wed 2/14: Quiz goes live
-Mon 2/19: Quiz due
+Wed 2/14: Quiz 1 goes live
+Mon 2/19: Quiz 1 due
+Wed 3/07: Quiz 2 goes live
 Thu 3/08: Midterm
 
 Math
