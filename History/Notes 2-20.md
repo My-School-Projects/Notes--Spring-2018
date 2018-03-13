@@ -79,7 +79,7 @@ __III. Progressive Reforms__
 __IV. Conclusion__
 
 
-Terms from 2/20
+Terms from Thu 2/15
 ---------------
 + Populism
 + Farmers' Alliance

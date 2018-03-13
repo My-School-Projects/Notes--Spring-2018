@@ -1,7 +1,7 @@
 History Notes Thu 2/15
 ----------------------
 
-### The Growth of American Population
+### The Growth of American Populism
 
 __I. Introduction: The Meaning of Populism__
    + Politicians are sometimes described as populist
@@ -15,7 +15,7 @@ __I. Introduction: The Meaning of Populism__
       + At the peak of their power they had many representatives in the white house
       + 1896 the democrats formed an alliance with the populists and almost won the white house
 
-__II. The Farmers' Complaints
+__II. The Farmers' Complaints__
 
    + __A. Railroads__
       + Many farmers depended on the railroads to send their crops to market
@@ -25,13 +25,13 @@ __II. The Farmers' Complaints
       + Farmers would try to sue the railroad companies but that typically went nowhere
 
    + __B. Middlemen__
-      + Farmers felt that they were charged excessive prices to get basic the materials to farm
+      + Farmers felt that they were charged excessive prices to get the basic materials to farm
       + Farmers often sold their crops through middle men like grain brokers
 
    + __C. Declining Prices__
       + The late 19th century was a difficult time to be a farmer because average agricultural prices had begun to fall
       + There was a lot of new land and better production techniques, but not enough increase in demand to meet the new supply
-         + 1866: 166 million bushels of wheat - %2.06/lb
+         + 1866: 166 million bushels of wheat - $2.06/lb
          + 1900: 599 million bushels of wheat - $0.62/lb
 
    + __D. The Money Supply__
@@ -57,7 +57,7 @@ __III. The Farmers Respond__
       + All throughout the south and midwest, troubled farmers joined their local farmers' alliance
       + The first farmers' alliance was formed in 1880
       + By 1890 they were spread across the south and midwest
-      + Farmers' alliances started publishing their own newspapers, which dramaticized the problems they were experienced
+      + Farmers' alliances started publishing their own newspapers, which dramaticized the problems they were experiencing
       + Farmers started organizing grass-roots events
          + They would have giant picnicks with populist rallies at the end
       + Women were very active in this program

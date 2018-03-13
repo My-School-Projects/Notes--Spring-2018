@@ -8,7 +8,7 @@ History Notes: Mon 1/22 (old class)
 __I. Political Reconstruction__
   + 13th amendment passed 1865 - abolished slavery
   + 14th amendment passed 1866 - defines national citicenship to include former slaves
-  + In 1870's Dred Scott decision says that black people are not citicenz, weather slaves or free
+  + In 1870's Dred Scott decision says that black people are not citizens, weather slaves or free
   + 15th amendment passed 1870 - gives black men the right to vote (redundant to the 14th amendment as black men were already citizens and citizens were guarantee
 
 __II. What is the New South__

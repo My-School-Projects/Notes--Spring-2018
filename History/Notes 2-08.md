@@ -78,7 +78,7 @@ __III. Andrew Carnegie: The King of Steel__
          + They had to let the mill workers back in
       + Managers decided to sell Homestead at a steep discount
 
-__IV. the Homestead Strike of 1892__
+__IV. The Homestead Strike of 1892__
    + Carnegie negotiates with the union but is always looking for an opportunity to bust them
    + In 1892 the country started slipping into a fairly serious depression
       + Demand for steel slowed down

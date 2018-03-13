@@ -21,8 +21,8 @@ Fri 2/02: HW #2 - Extended due date
 Fri 2/09: HW #3 - 11.6, 11.7, 12.1, 12.2
 Wed 2/14: __Exam 1__
 Wed 2/28: HW #4 13.1, 13.2, 13.3
-Wed 3/14: __Exam 2__
-Wed 3/14: HW #5
+Fri 3/16: __Exam 2__
+Fri 3/16: HW #5 - 13.4 - 13.8
 
 Political Science
 -----------------
