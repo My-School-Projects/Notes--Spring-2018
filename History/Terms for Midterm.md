@@ -50,3 +50,25 @@ __Tue 2/20__
 + Meat Inspection Act
 + Pure Food and Drug Act
 + The Jungle (book)
+
+__Thu 2/22__
++ John Muir
++ Conservationism
++ Preservationism
++ Gifford Pinchot
++ Hetch-Hetchy
+
+__Tue 2/27__
++ Berlin Conference
++ Age of Empire
++ Monroe Doctrine
++ Roosevelt Corollary
++ Alfred Mayhan
++ Social Darwinism
+
+__Thu 3/1__
++ Platt Amendment
++ The USS Maine
++ Arthur Zimmerman
++ League of Nations
++ Bolshevik Revolution
