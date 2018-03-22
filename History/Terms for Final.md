@@ -14,3 +14,10 @@ __Thu 3/15__
 + Red Lining
 + Restrictive Covenants
 + The Great Migration
+
+__Tue 3/20__
++ Herbert Hoover
++ Margin Buying
++ Hoovervilles
++ Great Depression
++ Dust Bowl
