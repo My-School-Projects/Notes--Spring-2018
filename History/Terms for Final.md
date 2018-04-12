@@ -21,3 +21,27 @@ __Tue 3/20__
 + Hoovervilles
 + Great Depression
 + Dust Bowl
+
+__Thu 3/22__
++ The New Deal
++ Bonus Marchers
++ Emergency Banking Relief Act
++ Social Security
++ Franklin Delano Roosevelt
++ Agricultural Adjustment Administration (AAA)
++ The Wagner Act
+
+__Thu 4/5__
++ Cold War
++ Communism
++ Five Year Plan
++ Doctrine of Containment
++ George Kennan
+
+__Tue 4/10__
++ Joe McCarthy
++ Palmer Raids
++ House Un-American Activities Committee (HUAC)
++ Pete Seager
++ Alger Hiss
++ Edmund Walsh
