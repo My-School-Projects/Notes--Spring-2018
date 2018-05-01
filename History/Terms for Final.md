@@ -45,3 +45,28 @@ __Tue 4/10__
 + Pete Seager
 + Alger Hiss
 + Edmund Walsh
+
+__Thu 4/12__
++ NAACP
++ Thurgood Marshall
++ A. Phillip Randolph
++ Executive Order 8802
++ Montgomery Bus Boycott
++ Rosa Parks
++ The Brown Decision
+
+__Tue 4/24__
++ César Chávez
++ Delores Huerta
++ Delano Strike and Boycott
++ National Farmworkers Association
++ Bracero
+
+__Thu 4/26__
++ Love Canal
++ William Love
++ Rachel Carson
++ Cuyahoga River
++ Lois Gibbs
++ Superfund
++ Silent Spring
