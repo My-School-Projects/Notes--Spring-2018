@@ -70,3 +70,12 @@ __Thu 4/26__
 + Lois Gibbs
 + Superfund
 + Silent Spring
+
+__Tue 5/1__
++ Ho Chi Minh
++ The Geneva Accords
++ Bao Dai
++ NATO
++ The Gulf of Tonkin Resolution
++ Ngo Dinh Diem
++ Barry Goldwater
