@@ -79,3 +79,19 @@ __Tue 5/1__
 + The Gulf of Tonkin Resolution
 + Ngo Dinh Diem
 + Barry Goldwater
+
+__Thu 5/3__
++ The Great Society
++ Operation Rolling Thunder
++ Operation Ranch Hand
++ The Tet Offensive
++ Walter Cronkite
++ The Ho Chi Minh Trail
++ Vietnamisation
+
+__Tue 5/8__
++ Affirmative Action
++ Bussing
++ Conservatism
++ Libertarianism
++ The Dixiecrat Revolt
